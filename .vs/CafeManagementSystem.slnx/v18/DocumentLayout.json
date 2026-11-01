@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|e:\\@_skinoah_\\cafemanagementsystem_dbintegrated\\cafemanagementsystem\\cafemanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\cashierform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\cafemanagementsystem\\adminaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7280FE0C-D58F-4E8F-B3B8-329128AD1DCD}|CafeManagementSystem\\CafeManagementSystem.csproj|solutionrelative:cafemanagementsystem\\adminaddproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminForm.cs",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminForm.cs",
+              "RelativeToolTip": "CafeManagementSystem\\AdminForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:24:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CashierForm.cs",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\CashierForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\CashierForm.cs",
+              "RelativeToolTip": "CafeManagementSystem\\CashierForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwCIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:24:41.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\LoginForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeToolTip": "CafeManagementSystem\\LoginForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvyoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:23:42.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminForm.cs [Design]",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminForm.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:21:52.331Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\LoginForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:21:46.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashierForm.cs [Design]",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\CashierForm.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\CashierForm.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\CashierForm.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\CashierForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:21:43.947Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminAddProduct.cs [Design]",
+              "DocumentMoniker": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminAddProduct.cs",
+              "RelativeDocumentMoniker": "CafeManagementSystem\\AdminAddProduct.cs",
+              "ToolTip": "E:\\@_skinoah_\\CafeManagementSystem_DBIntegrated\\CafeManagementSystem\\CafeManagementSystem\\AdminAddProduct.cs [Design]",
+              "RelativeToolTip": "CafeManagementSystem\\AdminAddProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T11:21:39.215Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
